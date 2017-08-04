@@ -1,11 +1,11 @@
 # Introduction:
- The project is using Stripe api to build up an simple online payment system with security insured.
+ The project is using Stripe API to build up a simple online payment system with security ensured.
 
 # Notice:
 
  In real business, all transactions should be under HTTPS protocol. (I did testing under HTTP)
 
- My Stripe Account monitor all activities such as creating token, making charges, failure notification, etc.
+ My Stripe Account monitors all activities such as creating token, making charges, failure notification, etc.
 
 # How it works:
 The third party payment API I used is Stripe.
