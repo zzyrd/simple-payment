@@ -1,0 +1,78 @@
+ .navbar {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      border: 1px;
+      border-radius: 0px;
+      margin-bottom: 30px;
+
+  }
+
+.center{
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+
+}
+.row_MarginB {
+            margin-bottom: 20px;
+}
+
+.title-text-decorated{
+            text-align: center;
+            color: #777;
+            letter-spacing: 3px;
+            word-spacing: 10px
+}
+
+.form-text-left{
+            text-align: left;
+}
+.form-style {
+            margin-bottom: 15px;
+            border-radius: 7px;
+            border-color: #7d7575;
+            font-size: 16px;
+}
+.form-style:hover,
+.form-style:focus{
+            box-shadow: 0 2px 2px 1px rgba(0,0,0,.25);
+                border-color: #e8edf1;
+
+}
+
+.thumb {
+             height: 75px;
+             border: 1px solid #000;
+             margin: 10px 5px 0 0;
+}
+.btn-customized {
+            font-size: 25px;
+            color: #555;
+            background-color: #fdfdfd;
+            letter-spacing: 1px;
+            padding: 10px 40px;
+            box-shadow:  0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+        }
+.btn-customized:hover,
+.btn-customized:focus {
+            background-color: #fff;
+            color: #000;
+            box-shadow: 0 3px 8px 0px rgba(0,0,0,.2);
+}
+
+p {
+            text-align: left;
+            margin-left: 50px;
+  }
+p.text-right {
+            text-align: right;
+            margin-right: 50px;
+  }
+
+/* CSS specially for style-3 */
+.email-input {
+            margin-left: 220px;
+}
+.email-button {
+            padding-left: 0px;
+}
